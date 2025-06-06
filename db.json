@@ -84,30 +84,6 @@
         "idUnidadAcademica": "2"
     },
     {
-        "idEspecialidad": "12",
-        "Especialidad": "Tec.Sup. en Sistemas Electronicos",
-        "UnidadAcademica": "Santa Cruz",
-        "idUnidadAcademica": "2"
-    },
-    {
-        "idEspecialidad": "1396",
-        "Especialidad": "TÉCNICO SUPERIOR EN ENERGÍAS RENOVABLES",
-        "UnidadAcademica": "Santa Cruz",
-        "idUnidadAcademica": "2"
-    },
-    {
-        "idEspecialidad": "1961",
-        "Especialidad": "Técnico Universitario Superior en Agropecuaria",
-        "UnidadAcademica": "Santa Cruz",
-        "idUnidadAcademica": "2"
-    },
-    {
-        "idEspecialidad": "1395",
-        "Especialidad": "TÉCNICO UNIVERSITARIO SUPERIOR EN CONSTRUCCIÓN CIVIL",
-        "UnidadAcademica": "Santa Cruz",
-        "idUnidadAcademica": "2"
-    },
-    {
         "idEspecialidad": "2",
         "Especialidad": "Ciencias Basicas",
         "UnidadAcademica": "Cochabamba",
@@ -196,53 +172,5 @@
         "Especialidad": "Ingeniería Comercial",
         "UnidadAcademica": "Riberalta",
         "idUnidadAcademica": "4"
-    },
-    {
-        "idEspecialidad": "9",
-        "Especialidad": "Ingeniería de Sistemas",
-        "UnidadAcademica": "Riberalta",
-        "idUnidadAcademica": "4"
-    },
-    {
-        "idEspecialidad": "1250",
-        "Especialidad": "Ingeniería Financiera",
-        "UnidadAcademica": "Riberalta",
-        "idUnidadAcademica": "4"
-    },
-    {
-        "idEspecialidad": "6",
-        "Especialidad": "Ingeniería Industrial",
-        "UnidadAcademica": "Riberalta",
-        "idUnidadAcademica": "4"
-    },
-    {
-        "idEspecialidad": "1706",
-        "Especialidad": "TEC. SUP. EN DISEÑO GRÁFICO Y COMUNICACIÓN AUDIOVISUAL",
-        "UnidadAcademica": "Riberalta",
-        "idUnidadAcademica": "4"
-    },
-    {
-        "idEspecialidad": "2",
-        "Especialidad": "Ciencias Basicas",
-        "UnidadAcademica": "Trópico",
-        "idUnidadAcademica": "5"
-    },
-    {
-        "idEspecialidad": "3",
-        "Especialidad": "Ingeniería Civil",
-        "UnidadAcademica": "Trópico",
-        "idUnidadAcademica": "5"
-    },
-    {
-        "idEspecialidad": "8",
-        "Especialidad": "Ingeniería Comercial",
-        "UnidadAcademica": "Trópico",
-        "idUnidadAcademica": "5"
-    },
-    {
-        "idEspecialidad": "9",
-        "Especialidad": "Ingeniería de Sistemas",
-        "UnidadAcademica": "Trópico",
-        "idUnidadAcademica": "5"
     }
 ]
